@@ -1,0 +1,11 @@
+Interface - font, color etc
+Task entry box
+ul/li items of entered Task
+option to delete a Task
+using keyboard key (enter) to add a task
+marking of tasks completed
+add a search box 
+sessions create - Flask
+Docker image
+login page
+concectivity with Postgre SQL for login page and Tasks
